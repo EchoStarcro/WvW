@@ -1,0 +1,30 @@
+{
+  "colorPalette": "crimson-red",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260607-202915-fza9",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-06-07T18:29:15.000Z",
+      "dateEnd": "2026-06-07T19:33:15.000Z",
+      "dateLabel": "6/7/2026, 8:29:15 PM - 6/7/2026, 9:33:15 PM",
+      "url": "https://EchoStarcro.github.io/WvW/?report=20260607-202915-fza9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 10
+      }
+    }
+  ]
+}
