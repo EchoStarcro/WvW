@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260612-203757-mlob",
+      "title": "Oh Cawsanova",
+      "commanders": [
+        "Oh Cawsanova"
+      ],
+      "dateStart": "2026-06-12T18:37:57.000Z",
+      "dateEnd": "2026-06-12T19:32:21.000Z",
+      "dateLabel": "6/12/2026, 8:37:57 PM - 6/12/2026, 9:32:21 PM",
+      "url": "https://EchoStarcro.github.io/WvW/?report=20260612-203757-mlob",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260607-200847-wb26",
       "title": "Just Mad N Fluffy",
       "commanders": [
