@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260617-210426-00x1",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "dateStart": "2026-06-17T19:04:26.000Z",
+      "dateEnd": "2026-06-17T19:41:40.000Z",
+      "dateLabel": "6/17/2026, 9:04:26 PM - 6/17/2026, 9:41:40 PM",
+      "url": "https://EchoStarcro.github.io/WvW/?report=20260617-210426-00x1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 29,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260612-203757-mlob",
       "title": "Oh Cawsanova",
       "commanders": [
