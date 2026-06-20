@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260620-211907-nvom",
+      "title": "Oh Cawsanova",
+      "commanders": [
+        "Oh Cawsanova"
+      ],
+      "dateStart": "2026-06-20T19:19:07.000Z",
+      "dateEnd": "2026-06-20T19:58:49.000Z",
+      "dateLabel": "6/20/2026, 9:19:07 PM - 6/20/2026, 9:58:49 PM",
+      "url": "https://EchoStarcro.github.io/WvW/?report=20260620-211907-nvom",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 56,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260617-210426-00x1",
       "title": "Sarah Carigan",
       "commanders": [
