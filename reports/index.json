@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260701-201243-mfso",
+      "title": "Grabnebelfûrstin",
+      "commanders": [
+        "Grabnebelfûrstin"
+      ],
+      "dateStart": "2026-07-01T18:12:43.000Z",
+      "dateEnd": "2026-07-01T19:56:48.000Z",
+      "dateLabel": "7/1/2026, 8:12:43 PM - 7/1/2026, 9:56:48 PM",
+      "url": "https://EchoStarcro.github.io/WvW/?report=20260701-201243-mfso",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260626-210338-2q8j",
       "title": "Enemy Thorn",
       "commanders": [
