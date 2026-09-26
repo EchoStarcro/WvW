@@ -2,7 +2,36 @@
   "colorPalette": "crimson-red",
   "glassSurfaces": false,
   "glassmorphic": false,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260925-220141-otk1",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-09-25T20:01:41.000Z",
+      "dateEnd": "2026-09-25T20:50:37.353Z",
+      "dateLabel": "9/25/2026, 10:01:41 PM - 9/25/2026, 10:50:37 PM",
+      "url": "https://EchoStarcro.github.io/WvW/?report=20260925-220141-otk1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 61,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 28
+      }
+    },
     {
       "id": "20260701-201243-mfso",
       "title": "Grabnebelfûrstin",
